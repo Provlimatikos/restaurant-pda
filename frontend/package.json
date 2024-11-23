@@ -1,0 +1,15 @@
+{
+  "name": "restaurant-pda-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "~44.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1"
+  }
+}
